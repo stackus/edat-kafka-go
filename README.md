@@ -1,4 +1,4 @@
-#edat-kafka-go - Kafka for edat
+# edat-kafka-go - Kafka for edat
 
 ## Installation
 
